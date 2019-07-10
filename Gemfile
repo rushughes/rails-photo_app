@@ -29,7 +29,7 @@ gem 'coffee-rails', '~> 4.2'
 
 gem 'carrierwave'
 gem 'mini_magick'
-gem 'fog'
+gem 'fog-aws'
 
 # Turbolinks makes navigating your web application faster. Read more: https://github.com/turbolinks/turbolinks
 gem 'turbolinks', '~> 5'
